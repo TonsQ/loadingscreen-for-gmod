@@ -58,20 +58,19 @@ if (isset($_GET['steamid'])) {
                     echo '<img src="img/'.$pic.'.jpg" alt="Picture '.$pic.'" class="imgtop img-rounded">';
                 }?>
             </div>
-            <h1 id="title" class="bigEntrance" style="font-size: 50px;">Cheesy Hans Gaming</h1>
+            <h1 id="title" class="bigEntrance" style="font-size: 50px;">TeamTigerGaming</h1>
             <p class="lead">
-                Welcome to our TTT-Server. Have fun!<br>
+                Welcome to our Deathrun. Have fun!<br>
                 <small>
                     <ul style="line-height: 1.6;">
                         <li>Be friendly.</li>
                         <li>No random killing - low karma autoban enabled.</li>
-                        <li>No Ghosting!</li>
-                        <li>Only English or German.</li>
+						<li>Remember little kids!</li>
+                        <li>Only English or Finnish.</li>
                         <li>Admins are kicking/baning if something is wrong.</li>
                     </ul>
                     All used Workshop items can be found here:
                     <br>
-                    <code>www.steamcommunity.com/id/<b>xunocore</b></code><br>→ TTT-Servercontent DL (Link)
                 </small>
             </p>
 
